@@ -27,7 +27,7 @@ I'm currently learning Web Development at Techlabs.
 - **Frameworks**: ![React](https://img.shields.io/badge/-React-blue)
 
 ### 📘 Currently Learning
-- **Web Development* by Techlabs.
+- Web Development* by Techlabs.
 
 ### 😄 Fun Fact
 I speak 5 languages!
